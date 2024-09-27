@@ -1,0 +1,16 @@
+{
+  "name": "langchainjs-intro",
+  "version": "1.0.0",
+  "description": "Simple express app to try out langchain js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.3.3",
+    "@langchain/ollama": "^0.1.0",
+    "express": "^4.21.0"
+  }
+}
